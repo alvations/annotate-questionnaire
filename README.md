@@ -192,7 +192,7 @@ The keywords **flexibility** and **ease**/**easy**/**simple** appears in many of
 Another recurring theme in the top feature list includes:
 
  - Respondents highlighting ability to annotate (i) overlapping spans, (ii) discontinuous spans, (iii) corrections to initial tokenizations (iv) entity relation annotations
- - In cases where free text annotation is allowed, some sort of respondents highlighted **need for constraints/limitations of free text**
+ - In cases where free text annotation is allowed, some respondents highlighted the **need for some sort of constraints/limitations of free text**
 
 
 ## Any other feedback on annotation tools?
