@@ -143,7 +143,7 @@ This summary is based on the results collated on 30 June 2020. We may update the
 | Demo/test small projects with least setup effort | | ✓ | 
 | Access to large/diverse/global pool of annotators | | ✓ | 
 
-#### Suggestions to annotation tool creators
+### Suggestions to annotation tool creators
 
 The keywords **flexibility** and **ease**/**easy**/**simple** appears in many of the comments to list the top features for annotation platform. We suggest the following for annotation tools creators to accomodate these feedbacks:
 
@@ -157,9 +157,12 @@ Another recurring theme in the top feature list includes:
  - In cases where free text annotation is allowed, some sort of respondents highlighted **need for constraints/limitations of free text**
 
 
-## Any other feedback on Open Source NLP/CV annotation tools?
+## Any other feedback on annotation tools?
 
 Here are a couple of aggregated free-form feedbacks from our respondents: 
+
+
+Feedback for **Open Sourc** annotation tools:
 
  - Tokenizations can/should be explicit in the data input format
  - Pre-definition of tagset is important
@@ -170,4 +173,25 @@ Here are a couple of aggregated free-form feedbacks from our respondents:
  - Automatic population of annotations in the tools would be great
  - Annotating across texts segments would be nice
 
+Feedback for annotation tools **in general**:
 
+ - Make the platforms as open source
+ - Support changes in the annotation schema and reclassification of the annotation that are already done.
+ - There's no universal tool and there will never be. So we need to find ways to combine the output of different tools.
+ - 1-2 years ago, annotation platforms were all simplistic and difficult to use for non-trivial tasks outside of their tutorials
+ - Most platforms work well for an individual task, but there's an enormous amount of effort needed to add new features or repurpose an existing tool to a more complicated NLP task. 
+
+## Your Dream Annotation Platform
+
+ - All in one
+ - Quick, easy to use, simple, plug & play 
+ - Flexibity (ability to customize annotation project, labels, tasks, schema, in-/output formats)
+ - Interoperability (ability to integrate with other annotation tools and their in-/output formats)
+ - Active and large pool of annotators, annotation project creators and annotation tool management community
+ 
+#### Notable Mentions about "Your Dream Anntoation Platform"
+
+ - "Takes over all the server hosting etc. and leaves the researcher with the task of designing experiments."
+ - "Fair treatment of both the annotator and the task creator."
+ 
+ 
