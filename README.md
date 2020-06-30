@@ -237,7 +237,7 @@ We thank all participants/respondents of the questionnaire and the precious insi
 
 We also have a thankful mention to `Mariana Neves` for referring us to the following survey 
 
-- [An extensive review of tools for manual annotation of documents](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz130/5670958) (published on Dec 2019) [List of tool reviewed](https://github.com/mariananeves/annotation-tools]
+- [An extensive review of tools for manual annotation of documents](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz130/5670958) (published on Dec 2019) [List of tool reviewed](https://github.com/mariananeves/annotation-tools)
 
 # Cite 
 
