@@ -31,13 +31,30 @@ This summary is based on the results collated on 30 June 2020. We may update the
 ## Why do you need annotations for your task/data?
 
 
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1144655843&format=image)
+
+ - **65.3% (of 78 respondents) can't find existing open datasets** that fit their needs
+ - **53.8% (of 78 respondents) stated that there is no data in the domain** they're interested in
+ - **47.4% (of 78 respondents) wants to explore new facet of data/task** that requires new annotations
+
+ - **Others** reasons includes:
+   - Data for low-resource languages doesn't exist (e.g. marginalised and indigenous langauges)
+   - Security/privacy reason
+   - Developing new annotation methods
+   - Available data size is insufficient for specific phenomena / task
+   - Data for biomedical data is inadequate/insufficient
+   - Academic datasets and pre-trained models are unusable on real data
+   - "We build datasets in my lab"
+  
+
 ## What NLP tasks do you need annotation for?
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1777988562&format=image)
 
- - **27.3% (of 78 respondents) need Classification** annotations
- - **21.3% (of 78 respondents) need Span** annotations**
- - **13.9% (of 78 respondents) need Entity Linking** annotations
+ - **75.6% (of 78 respondents) need Classification** annotations
+ - **60.0% (of 78 respondents) need Span** annotations**
+ - **38.5% (of 78 respondents) need Entity Linking** annotations
+
  - **Others** annotation includes:
     - Video captioning (3 out of 78 respondents)
     - Bounding boxes (2 out of 78 respondents)
