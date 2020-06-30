@@ -219,6 +219,8 @@ Feedback for annotation tools **in general**:
 
 # Your Dream Annotation Platform
 
+Summarizing the respondents' dream platforms:
+
  - All in one
  - Quick, easy to use, simple, plug & play 
  - Flexibity (ability to customize annotation project, labels, tasks, schema, in-/output formats)
