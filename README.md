@@ -150,6 +150,8 @@ The raw data for the survey results can be found on:
 
 ## Most Useful Features
 
+The table below presents the list of features that respondents find useful in the open source or commercial annotation tools they have previously interacted with.
+
 | Feature | Open Source | Commercial | 
 |:-|:-:|:-:|
 | Active Learning | ✓ | ✓ | 
