@@ -90,10 +90,10 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=851618670&format=image)
 
-79.7% (63 of 78 respondents) **have** used open source annotation platforms before
-58.2% (46 of 78 respondents) **have not** used commercial annotation platforms before
+ - 79.7% (63 of 78 respondents) **have** used open source annotation platforms before
+ - 58.2% (46 of 78 respondents) **have not** used commercial annotation platforms before
 
-## Which of these open source annotation platforms/tools have you used before?
+## Which of these open source annotation platforms/tools have you ***used*** before?
 
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1311576751&format=image)
@@ -104,3 +104,49 @@ This summary is based on the results collated on 30 June 2020. We may update the
  - 12 other tools (not listed in the questionnaire) is used by 2 respondents
  - 40 other tools (not listed in the questionnaire) is used by 1 respondent
  
+
+## Which of these commercial annotation platforms/tools have you ***heard*** before?
+
+
+
+## Which of these commercial annotation platforms/tools have you ***used*** before?
+
+
+## Most Useful Features
+
+| Feature | Open Source | Commercial | 
+|:-|:-:|:-:|
+| Active Learning | ✓ | | 
+| Annotation progress monitor | ✓ | | 
+| Annotation shortcuts | ✓ | | 
+| Annotation visualization | ✓ | | 
+| Automatically suggesting annotations | ✓ | | 
+| Audio annotation support | ✓ | | 
+| Available Online (No installation)| ✓ | | 
+| Connecting to external resources (e.g. storage / knowledge base / dictionary) | ✓ | | 
+| Customizable annotation tasks/labels (with extra code/schema)| ✓ | | 
+| Customizable annotation view (when annotating) |  ✓ | | 
+| Drag and drop interactions | ✓ | | 
+| Easy setup/installation (e.g Docker) | ✓ | | 
+| Export to multiple formats| ✓ | | 
+| Good UI/UX | ✓ | | 
+| Interoperability (e.g. load/combine annotations from other tools)| ✓ | | 
+| Multi-annotator agreement mechanisms/metrics | ✓ | | 
+| Post-Annotation curation | ✓ | | 
+| Project Management with collaboration features | ✓ | | 
+| Python-based | ✓ | | 
+| Simple Login/Sign-on | ✓ | | 
+| Supports multiple tasks | ✓ | | 
+
+
+The keywords **flexibility** and **ease**/**easy**/**simple** appears in many of the comments to list the top features for annotation platform. We suggest the following for annotation tools creators to accomodate these feedbacks:
+
+ - Customizable tasks / labels / schema setup and output formats for annotation project managers
+ - User-friendly and intuitive UI/UX 
+ - Customizable shortcuts and/or mobile-friendly features to help annotators 
+
+Another recurring theme in the top feature list includes:
+
+ - Respondents highlighting ability to annotate (i) overlapping spans, (ii) discontinuous spans, (iii) corrections to initial tokenizations (iv) entity relation annotations
+ - In cases where free text annotation is allowed, some sort of respondents highlighted **need for constraints/limitations of free text**
+
