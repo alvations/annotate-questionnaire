@@ -138,7 +138,6 @@ This summary is based on the results collated on 30 June 2020. We may update the
 | Simple Login/Sign-on | ✓ | | 
 | Supports multiple tasks | ✓ | | 
 | Communication tools (e.g. annotators interaction with project managers) |  | ✓ | 
-|-|-|-| 
 | Documentation (e.g. forums, example setup) | | ✓ | 
 | Built-in quality control (e.g. screening tests, data cleanup/filer) | | ✓ | 
 | Demo/test small projects with least setup effort | | ✓ | 
