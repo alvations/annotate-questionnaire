@@ -109,6 +109,12 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=922848789&format=image)
 
+ - 51.3% (out of 78 respondents) have heard of [Amazon Mechanical Turk](https://www.mturk.com/) (MTurk)
+ - 41.0% (out of 78 respondents) have heard of [Appen Data Annotation](https://appen.com/solutions/platform-overview/) (formerly known as Figure8, former-formerly known Crowdflower)
+ - 33.3% (out of 78 respondents) have heard of [Prodigy](https://prodi.gy/)
+ - 19.2% (out of 78 respondents) have not heard of any of the commercial tools before
+ 
+(**Note**: Fiverr and Upwork are generally crowd-source sites that provides huamn annotators but may/may not provide an annotation platform)
 
 ## Which of these commercial annotation platforms/tools have you ***used*** before?
 
