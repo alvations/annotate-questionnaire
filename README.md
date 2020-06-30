@@ -84,9 +84,23 @@ This summary is based on the results collated on 30 June 2020. We may update the
    - I don't really know.
    - Can't say we have trusted or expert annotators but we have annotators.
 
-# Annotation Platforms
+# Open Source Annotation Platforms
+
+## Have you used open source / commercial annotation platforms before?
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=851618670&format=image)
+
+79.7% (63 of 78 respondents) **have** used open source annotation platforms before
+58.2% (46 of 78 respondents) **have not** used commercial annotation platforms before
 
 ## Which of these open source annotation platforms/tools have you used before?
 
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1311576751&format=image)
+
+ - 50.0% (out of 78 respondents) used [Brat](https://brat.nlplab.org/) before 
+ - 28.2% (out of 78 respondents) used [WebAnno](https://webanno.github.io/webanno/) before
+ - 17.9% (out of 78 respondents) have not used any open source annotation tools before
+ - 12 other tools (not listed in the questionnaire) is used by 2 respondents
+ - 40 other tools (not listed in the questionnaire) is used by 1 respondent
+ 
