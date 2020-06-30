@@ -67,3 +67,9 @@ This summary is based on the results collated on 30 June 2020. We may update the
     - Item/Product relevancy scoring
     - Semantic Role Labeling
     - Open Information Extraction
+    
+## Would the annotations you need require domain expertise or can it be handled by crowdsource workers with some minimum requirements?
+
+
+
+## Do you have a pool of trusted/expert annotators that can work on your annotation task(s)?
