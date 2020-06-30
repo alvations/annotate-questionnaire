@@ -222,16 +222,18 @@ We also have a thankful mention to `Mariana Neves` for referring us to the follo
 
 If reference to this report is necessary, 
 
-to cite pywsd:
+to cite (in-text):
 
 > Liling Tan. 2020. A Survey of NLP Annotation Platforms. Retrieved from https://github.com/alvations/annotate-questionnaire
 
 
 in bibtex:
 
+```
 @misc{survey-annotation-platform,
 author =   {Liling Tan},
 title =    {A Survey of NLP Annotation Platforms},
 howpublished = {https://github.com/alvations/annotate-questionnaire},
 year = {2020}
 }
+```
