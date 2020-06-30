@@ -118,6 +118,9 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 ## Which of these commercial annotation platforms/tools have you ***used*** before?
 
+[https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=14680981&format=image]
+
+**Note:** The response for this question is really low, so it might not be representative of all annotation platform users. But this also highlights the stark adoption rate between open source vs commercial annotation tools. 
 
 ## Most Useful Features
 
@@ -198,7 +201,7 @@ Feedback for annotation tools **in general**:
  
 #### Notable Mentions about "Your Dream Anntoation Platform"
 
- - "Takes over all the server hosting etc. and leaves the researcher with the task of designing experiments."
- - "Fair treatment of both the annotator and the task creator."
+ - "*Takes over all the server hosting etc. and leaves the researcher with the task of designing experiments.*"
+ - "*Fair treatment of both the annotator and the task creator.*"
  
  
