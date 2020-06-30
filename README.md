@@ -86,5 +86,7 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 # Annotation Platforms
 
+## Which of these open source annotation platforms/tools have you used before?
 
-   
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1311576751&format=image)
