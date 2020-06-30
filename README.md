@@ -11,14 +11,14 @@ The raw data for the survey results can be found on:
  
 # Overview
 
- - **Population**
+ - [**Population**](https://github.com/alvations/annotate-questionnaire/blob/master/README.md#population)
    - Population Breakdown
- - **Annotations Requirements**
+ - [**Annotations Requirements**](https://github.com/alvations/annotate-questionnaire/blob/master/README.md#annotations-requirements)
    - Why do you need annotations for your task/data?
    - What NLP tasks do you need annotation for?
    - Would the annotations you need require domain expertise or can it be handled by crowdsource workers with some minimum requirements?
    - Do you have a pool of trusted/expert annotators that can work on your annotation task(s)?
- - **Annotation Platforms**
+ - [**Annotation Platforms**](https://github.com/alvations/annotate-questionnaire/blob/master/README.md#annotation-platforms)
    - Have you used open source / commercial annotation platforms before? 
    - Which of these *open source* annotation platforms/tools have you ***used*** before?
    - Which of these *commercial* annotation platforms/tools have you ***heard*** before?
@@ -26,9 +26,9 @@ The raw data for the survey results can be found on:
    - Most Useful Features
    - Suggestions to annotation tool creators
    - Any other feedback on annotation tools?
- - **Your Dream Annotation Platform**
+ - [**Your Dream Annotation Platform**](https://github.com/alvations/annotate-questionnaire/blob/master/README.md#your-dream-annotation-platform)
     - Notable Mentions about "Your Dream Anntoation Platform"
- - **Acknowledgements**
+ - [**Acknowledgements**](https://github.com/alvations/annotate-questionnaire/blob/master/README.md#acknowledgement)
  
 #  Population 
 
@@ -216,7 +216,7 @@ Feedback for annotation tools **in general**:
  - 1-2 years ago, annotation platforms were all simplistic and difficult to use for non-trivial tasks outside of their tutorials
  - Most platforms work well for an individual task, but there's an enormous amount of effort needed to add new features or repurpose an existing tool to a more complicated NLP task. 
 
-## Your Dream Annotation Platform
+# Your Dream Annotation Platform
 
  - All in one
  - Quick, easy to use, simple, plug & play 
