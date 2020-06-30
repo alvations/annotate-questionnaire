@@ -107,6 +107,7 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 ## Which of these commercial annotation platforms/tools have you ***heard*** before?
 
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=922848789&format=image)
 
 
 ## Which of these commercial annotation platforms/tools have you ***used*** before?
@@ -162,7 +163,7 @@ Another recurring theme in the top feature list includes:
 Here are a couple of aggregated free-form feedbacks from our respondents: 
 
 
-Feedback for **Open Sourc** annotation tools:
+Feedback for **Open Source** annotation tools:
 
  - Tokenizations can/should be explicit in the data input format
  - Pre-definition of tagset is important
