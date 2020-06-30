@@ -144,7 +144,7 @@ The raw data for the survey results can be found on:
 
 ## Which of these commercial annotation platforms/tools have you ***used*** before?
 
-[https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=14680981&format=image]
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=14680981&format=image)
 
 **Note:** The response for this question is really low, so it might not be representative of all annotation platform users. But this also highlights the stark adoption rate between open source vs commercial annotation tools. 
 
