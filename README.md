@@ -1,6 +1,6 @@
 # Introduction
 
-This README is a summary of responses to questionnaire on annotation platforms (from https://forms.gle/iZk8kehkjAWmB8xe9). The questionnaire is a short survey on users' usage and wants of annotation for text and/or image processing for Natural Language Processing (NLP) tasks.
+This `README` is a summary of responses to questionnaire on annotation platforms (from https://forms.gle/iZk8kehkjAWmB8xe9). The questionnaire is a short survey on users' usage and wants of annotation for text and/or image processing for Natural Language Processing (NLP) tasks.
 
 This summary is based on the results collated on 30 June 2020. We may update the results if there are significant no. of new responses after the stipulate dated in the previous sentence. 
 
@@ -70,6 +70,18 @@ This summary is based on the results collated on 30 June 2020. We may update the
     
 ## Would the annotations you need require domain expertise or can it be handled by crowdsource workers with some minimum requirements?
 
-
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=2081029176&format=image)
 
 ## Do you have a pool of trusted/expert annotators that can work on your annotation task(s)?
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1814184526&format=image)
+
+ - **Others** comments includes:
+   - Had some trusted annotators for last project. Would have to train a new team the next time.
+   - Often, it is the researchers who want to use the annotations for a specific task annotating the data.
+   - Kind of - I train university students to annotate as needed for specific projects.
+   - Somtimes.
+   - I don't really know.
+   - Can't say we have trusted or expert annotators but we have annotators.
+   
+   
