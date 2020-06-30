@@ -25,20 +25,28 @@ This summary is based on the results collated on 30 June 2020. We may update the
    - the rest comes from a mix of either of the above categories
 
 
-## Annotations 
+# Annotations Requirements
+
+
+## Why do you need annotations for your task/data?
+
+
+## What NLP tasks do you need annotation for?
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1777988562&format=image)
 
- - **27.3% (of 78 respondents) need Classification Annotations** 
- - **21.3% (of 78 respondents) need Span Annotations**
- - **13.9% (of 78 respondents) need Entity
- 
- , 21.3, 13.9, 13.4 8.3 6.0 5.6 4.2
- 
- ('Classification tasks', 59),
- ('Span annotation', 46),
- ('Entity linking tasks', 30),
- ('Parsing annotations / Treebanking tasks', 29),
- ('Creating Translation/Generation data', 18),
- ('Evaluating Generation (Seq2Seq) tasks', 13),
- ('Regression/Scoring tasks', 12),
+ - **27.3% (of 78 respondents) need Classification** annotations
+ - **21.3% (of 78 respondents) need Span** annotations**
+ - **13.9% (of 78 respondents) need Entity Linking** annotations
+ - **Others** annotation includes:
+    - Video captioning (3 out of 78 respondents)
+    - Bounding boxes (2 out of 78 respondents)
+    - Word level annotation (includes correction of word tokens)
+    - Sentiment / Emotions annotation
+    - Stance annotation 
+    - NER annotation
+    - Writing paraphrases / Dialog systems
+    - MCQ answering
+    - Item/Product relevancy scoring
+    - Semantic Role Labeling
+    - Open Information Extraction
