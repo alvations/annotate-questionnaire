@@ -6,8 +6,9 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 The raw data for the survey results can be found on:
 
- - [`.tsv` format]()
- - [`.xlsx` format]()
+ - [`.csv` format](https://github.com/alvations/annotate-questionnaire/blob/master/NLP-Annotation-Platforms.csv)
+ - [`.tsv` format](https://github.com/alvations/annotate-questionnaire/blob/master/NLP-Annotation-Platforms.tsv)
+ - [`.xlsx` format](https://github.com/alvations/annotate-questionnaire/blob/master/NLP-Annotation-Platforms.xlsx)
  
 # Overview
 
