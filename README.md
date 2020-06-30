@@ -1,8 +1,13 @@
-# Introduction
+# A Survey of NLP Annotation Platforms
 
 This `README` is a summary of responses to questionnaire on annotation platforms (from https://forms.gle/iZk8kehkjAWmB8xe9). The questionnaire is a short survey on users' usage and wants of annotation for text and/or image processing for Natural Language Processing (NLP) tasks.
 
 This summary is based on the results collated on 30 June 2020. We may update the results if there are significant no. of new responses after the stipulate dated in the previous sentence. 
+
+The raw data for the survey results can be found on:
+
+ - [`.tsv` format]()
+ - [`.xlsx` format]()
 
  
 #  Population 
@@ -205,3 +210,28 @@ Feedback for annotation tools **in general**:
  - "*Fair treatment of both the annotator and the task creator.*"
  
  
+# Acknowledgement
+
+We thank all participants/respondents of the questionnaire and the precious insights/feedbacks given!!! 
+
+We also have a thankful mention to `Mariana Neves` for referring us to the following survey 
+
+- [An extensive review of tools for manual annotation of documents](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz130/5670958) (published on Dec 2019) [List of tool reviewed](https://github.com/mariananeves/annotation-tools]
+
+# Cite 
+
+If reference to this report is necessary, 
+
+to cite pywsd:
+
+> Liling Tan. 2020. A Survey of NLP Annotation Platforms. Retrieved from https://github.com/alvations/annotate-questionnaire
+
+
+in bibtex:
+
+@misc{survey-annotation-platform,
+author =   {Liling Tan},
+title =    {A Survey of NLP Annotation Platforms},
+howpublished = {https://github.com/alvations/annotate-questionnaire},
+year = {2020}
+}
