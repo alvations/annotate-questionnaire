@@ -116,7 +116,7 @@ This summary is based on the results collated on 30 June 2020. We may update the
 
 | Feature | Open Source | Commercial | 
 |:-|:-:|:-:|
-| Active Learning | ✓ | | 
+| Active Learning | ✓ | ✓ | 
 | Annotation progress monitor | ✓ | | 
 | Annotation shortcuts | ✓ | | 
 | Annotation visualization | ✓ | | 
@@ -124,19 +124,25 @@ This summary is based on the results collated on 30 June 2020. We may update the
 | Audio annotation support | ✓ | | 
 | Available Online (No installation)| ✓ | | 
 | Connecting to external resources (e.g. storage / knowledge base / dictionary) | ✓ | | 
-| Customizable annotation tasks/labels (with extra code/schema)| ✓ | | 
+| Customizable annotation tasks/labels (with extra code/schema)| ✓ |  ✓ | 
 | Customizable annotation view (when annotating) |  ✓ | | 
 | Drag and drop interactions | ✓ | | 
 | Easy setup/installation (e.g Docker) | ✓ | | 
-| Export to multiple formats| ✓ | | 
+| Export to multiple formats| ✓ | ✓ | 
 | Good UI/UX | ✓ | | 
-| Interoperability (e.g. load/combine annotations from other tools)| ✓ | | 
-| Multi-annotator agreement mechanisms/metrics | ✓ | | 
+| Interoperability (e.g. load/combine annotations from other tools, integration with other tools)| ✓ |  ✓  | 
+| Multi-annotator agreement mechanisms/metrics / Automatic evaluation of annotations | ✓ | ✓ | 
 | Post-Annotation curation | ✓ | | 
-| Project Management with collaboration features | ✓ | | 
+| Project Management with collaboration features | ✓ | ✓ | 
 | Python-based | ✓ | | 
 | Simple Login/Sign-on | ✓ | | 
 | Supports multiple tasks | ✓ | | 
+| Communication tools (e.g. annotators interaction with project managers) |  | ✓ | 
+|-|-|-| 
+| Documentation (e.g. forums, example setup) | | ✓ | 
+| Built-in quality control (e.g. screening tests, data cleanup/filer) | | ✓ | 
+| Demo/test small projects with least setup effort | | ✓ | 
+| Access to large/diverse/global pool of annotators | | ✓ | 
 
 
 The keywords **flexibility** and **ease**/**easy**/**simple** appears in many of the comments to list the top features for annotation platform. We suggest the following for annotation tools creators to accomodate these feedbacks:
@@ -149,4 +155,5 @@ Another recurring theme in the top feature list includes:
 
  - Respondents highlighting ability to annotate (i) overlapping spans, (ii) discontinuous spans, (iii) corrections to initial tokenizations (iv) entity relation annotations
  - In cases where free text annotation is allowed, some sort of respondents highlighted **need for constraints/limitations of free text**
+
 
