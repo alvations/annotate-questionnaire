@@ -78,7 +78,7 @@ The raw data for the survey results can be found on:
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1777988562&format=image)
 
  - **75.6% (of 78 respondents) need Classification** annotations
- - **60.0% (of 78 respondents) need Span** annotations**
+ - **60.0% (of 78 respondents) need Span** annotations
  - **38.5% (of 78 respondents) need Entity Linking** annotations
 
  - **Others** annotation includes:
