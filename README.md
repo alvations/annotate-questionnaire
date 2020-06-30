@@ -8,7 +8,27 @@ The raw data for the survey results can be found on:
 
  - [`.tsv` format]()
  - [`.xlsx` format]()
+ 
+# Overview
 
+ - **Population**
+   - Population Breakdown
+ - **Annotations Requirements**
+   - Why do you need annotations for your task/data?
+   - What NLP tasks do you need annotation for?
+   - Would the annotations you need require domain expertise or can it be handled by crowdsource workers with some minimum requirements?
+   - Do you have a pool of trusted/expert annotators that can work on your annotation task(s)?
+ - **Annotation Platforms**
+   - Have you used open source / commercial annotation platforms before? 
+   - Which of these *open source* annotation platforms/tools have you ***used*** before?
+   - Which of these *commercial* annotation platforms/tools have you ***heard*** before?
+   - Which of these *commercial* annotation platforms/tools have you ***used*** before?
+   - Most Useful Features
+   - Suggestions to annotation tool creators
+   - Any other feedback on annotation tools?
+ - **Your Dream Annotation Platform**
+    - Notable Mentions about "Your Dream Anntoation Platform"
+ - **Acknowledgements**
  
 #  Population 
 
@@ -89,7 +109,7 @@ The raw data for the survey results can be found on:
    - I don't really know.
    - Can't say we have trusted or expert annotators but we have annotators.
 
-# Open Source Annotation Platforms
+# Annotation Platforms
 
 ## Have you used open source / commercial annotation platforms before?
 
@@ -98,7 +118,7 @@ The raw data for the survey results can be found on:
  - 79.7% (63 of 78 respondents) **have** used open source annotation platforms before
  - 58.2% (46 of 78 respondents) **have not** used commercial annotation platforms before
 
-## Which of these open source annotation platforms/tools have you ***used*** before?
+## Which of these *open source* annotation platforms/tools have you ***used*** before?
 
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMa1QOjA4b45HvT3FKnRnfsgIpgjtjOb7RzJ8ZODJZ1vZr0ImtQ313CdAxcnSi3tXcHiXcXc-oUEoC/pubchart?oid=1311576751&format=image)
