@@ -143,6 +143,7 @@ This summary is based on the results collated on 30 June 2020. We may update the
 | Demo/test small projects with least setup effort | | ✓ | 
 | Access to large/diverse/global pool of annotators | | ✓ | 
 
+#### Suggestions to annotation tool creators
 
 The keywords **flexibility** and **ease**/**easy**/**simple** appears in many of the comments to list the top features for annotation platform. We suggest the following for annotation tools creators to accomodate these feedbacks:
 
@@ -154,5 +155,19 @@ Another recurring theme in the top feature list includes:
 
  - Respondents highlighting ability to annotate (i) overlapping spans, (ii) discontinuous spans, (iii) corrections to initial tokenizations (iv) entity relation annotations
  - In cases where free text annotation is allowed, some sort of respondents highlighted **need for constraints/limitations of free text**
+
+
+## Any other feedback on Open Source NLP/CV annotation tools?
+
+Here are a couple of aggregated free-form feedbacks from our respondents: 
+
+ - Tokenizations can/should be explicit in the data input format
+ - Pre-definition of tagset is important
+ - Automatic publishing of annotations as open source 
+ - Having web version accessible to everyone is preferred
+ - Tools for documentation updates during the annotation project progress
+ - Having an active community to maintain the open source annotation tool
+ - Automatic population of annotations in the tools would be great
+ - Annotating across texts segments would be nice
 
 
